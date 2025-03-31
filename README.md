@@ -4,7 +4,7 @@ Dashboards analyzing email marketing campaigns &amp; web engagement trends using
 
 ---
 ## 📌 Dashboard Preview - Excel 
-![Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-23%20152747.png)
+![Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-31%20171350.png)
 
 --
 ## 📌 Overview

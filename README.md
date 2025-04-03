@@ -1,4 +1,4 @@
-# 📊 Marketing-Performance-Marketo-Data-Analysis
+# 📊 Digital Marketing Performance: Web Engagement & Email Strategy
 
 Dashboards analyzing email marketing campaigns &amp; web engagement trends using Power BI  , Excel &amp; Tableau
 

@@ -61,4 +61,6 @@ Web Engagement Analytics tracks how visitors interact with a website, highlighti
 
 **[Download EXCEL Dashboard](https://docs.google.com/spreadsheets/d/1WekRndQtLnpmo9m8hRfalYVbQ3hk4wmW/edit?usp=drive_link&ouid=104434405300776390685&rtpof=true&sd=true)**  
 
- 
+ **[Download POWER BI Dashboard](https://drive.google.com/file/d/13m7_C-IQ5PBm_ypxZrXYRjNFHHaqQX7U/view?usp=sharing)** 
+
+ **[Download TABLEAU Dashboard](https://drive.google.com/file/d/1qcnKz7lvl-JwrIKtq7wPG0Ui2YFAuYe5/view?usp=drive_link)**  

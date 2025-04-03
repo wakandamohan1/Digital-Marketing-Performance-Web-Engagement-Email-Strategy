@@ -3,6 +3,12 @@
 Dashboards analyzing email marketing campaigns &amp; web engagement trends using Power BI  , Excel &amp; Tableau
 
 ---
+## 📌 Dashboard Preview - Power BI
+![Dashboard Preview]( https://github.com/wakandamohan1/Digital-Marketing-Performance-Web-Engagement-Email-Strategy/blob/main/Powerbi_web_traffic.png )
+
+## 📌 Dashboard Preview - TABLEAU
+![Dashboard Preview](https://github.com/wakandamohan1/Digital-Marketing-Performance-Web-Engagement-Email-Strategy/blob/main/Tableau_Email_Campaigns.png)
+
 ## 📌 Dashboard Preview - Excel 
 ![Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-31%20171350.png)
 

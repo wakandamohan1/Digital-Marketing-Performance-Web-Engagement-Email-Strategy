@@ -4,10 +4,16 @@ Dashboards analyzing email marketing campaigns &amp; web engagement trends using
 
 ---
 ## 📌 Dashboard Preview - Power BI
-![Dashboard Preview]( https://github.com/wakandamohan1/Digital-Marketing-Performance-Web-Engagement-Email-Strategy/blob/main/Powerbi_web_traffic.png )
+![Website Traffic Dashboard Preview]( https://github.com/wakandamohan1/Digital-Marketing-Performance-Web-Engagement-Email-Strategy/blob/main/Powerbi_web_traffic.png )
+
+## 📌 Dashboard Preview - Power BI
+![Email Campaigns Analysis Dashboard Preview](https://github.com/wakandamohan1/Digital-Marketing-Performance-Web-Engagement-Email-Strategy/blob/main/PowerBI_email_campaign.png)
 
 ## 📌 Dashboard Preview - TABLEAU
-![Dashboard Preview](https://github.com/wakandamohan1/Digital-Marketing-Performance-Web-Engagement-Email-Strategy/blob/main/Tableau_Email_Campaigns.png)
+![Email Campaigns Analysis Dashboard Preview](https://github.com/wakandamohan1/Digital-Marketing-Performance-Web-Engagement-Email-Strategy/blob/main/Tableau_Email_Campaigns.png)
+
+## 📌 Dashboard Preview - TABLEAU
+![Website Traffic Dashboard Preview](https://github.com/wakandamohan1/Digital-Marketing-Performance-Web-Engagement-Email-Strategy/blob/main/Tableau_Web_Engagement.png)
 
 ## 📌 Dashboard Preview - Excel - Showcasing the combined marketing dashboard 
 ![Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-31%20171350.png)
